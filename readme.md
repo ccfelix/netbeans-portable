@@ -18,8 +18,11 @@ INSTRUCTIONS:
 
 How make a JDK portable? 
 
-* Download JDK from Oracle website. Install, copy folder from installation directory 
+* Option 1 - Download JDK from Oracle website. Install, copy folder from installation directory 
   for 'CommonFiles\Java'. Uninstall JDK. 
+  
+* Option 2 - Follow the instructions at:
+    https://www.whitebyte.info/programming/java/how-to-install-a-portable-jdk-in-windows-without-admin-rights
 
 You want make a exe from .bat file? 
 
