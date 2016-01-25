@@ -6,13 +6,15 @@ NetBeans portable with a simple .bat file (batch).
 
 INSTRUCTIONS:
 
-* Clone this repository.
+* Clone this repository or download zip file.
 
 * Download netbeans (plataform independent zip) and put files in 'App' folder.
 
+    Link for NetBeans download:  https://netbeans.org/downloads/
+
 * Download 'Java Portable' and put Java JRE or JDK files in a folder above named CommonFiles\Java
 
-    Link for Java JRE portable:  https://netbeans.org/downloads/
+    Link for Java JRE portable:  http://portableapps.com/apps/utilities/java_portable
 
 How make a JDK portable? 
 
